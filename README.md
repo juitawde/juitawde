@@ -1,4 +1,4 @@
-                                            🌟 Hello, I'm Jui Tawde 🌟
+  # 🌟 Hello, I'm **Jui Tawde** 🌟
 
 ![Profile Views](https://komarev.com/ghpvc/?username=juisudhir\&color=brightgreen)
 🚀 **B.Tech Computer Science Engineering Student** | Tech + Business Enthusiast
@@ -55,12 +55,12 @@ I am interested in Business Technology, Data Analytics, AI/ML, and emerging tech
 | Project                                | Description                         | Tech / Tools             |
 | -------------------------------------- | ----------------------------------- | ------------------------ |
 | 📈 **Employee Leave Trend Visualizer** | Data-driven insights & reporting    | Python, Data Analytics   |
-| 🧠 **STEM Learning Platform**          | Tech-enabled education for students | Web Dev, Scratch, Python |
+| 🧠 **STEM Learning Platform**          | Tech-enabled education for students | Web Dev, Python          |
 | 🎮 **Scratch Animations & Games**      | Creativity meets logic              | Scratch                  |
 | 🐍 **Python Projects**                 | Automation, analytics, utilities    | Python                   |
 
- *(More projects loading...!⏳)*
- 
+*(More projects loading..!⏳)*
+
 > "*The best way to predict the future is to create it.*" – Peter Drucker
 
 ---
@@ -87,11 +87,12 @@ I am interested in Business Technology, Data Analytics, AI/ML, and emerging tech
 
 | Platform     | Contact                                              |
 | ------------ | ---------------------------------------------------- |
-| 📧 Email     | [2025.juis@isu.ac.in](mailto:2025.juis@isu.ac.in)    |
+| 📧 Email     | [juitawde23@gmail.com](mailto:juitawde23@gmail.com)  |
 | 🌐 Portfolio | *Coming Soon*                                        |
-| 💼 LinkedIn  | https://www.linkedin.com/in/jui-tawde-788210385?     |
-| 🐱 GitHub    | [https://github.com/juitawde                         |
+| 💼 LinkedIn  | https://www.linkedin.com/in/jui-tawde-788210385      |
+| 🐱 GitHub    | https://github.com/juitawde                          |
 
 ---
 
 ✨ *Always learning. Always building. Always improving.* ✨
+                                            
