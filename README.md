@@ -1,4 +1,4 @@
-#                                    🌟 Hello, I'm **Jui Tawde** 🌟
+                                             #🌟 Hello, I'm **Jui Tawde** 🌟
 
 ![Profile Views](https://komarev.com/ghpvc/?username=juisudhir\&color=brightgreen)
 🚀 **B.Tech Computer Science Engineering Student** | Tech + Business Enthusiast
@@ -8,7 +8,7 @@
 
 ---
 
-## 🌟 About Me
+## 👩🏻‍💻 About Me
 
 I’m a curious and driven Computer Science student who loves **building things that matter**.
 
@@ -16,7 +16,7 @@ I am interested in Business Technology, Data Analytics, AI/ML, and emerging tech
 
 ---
 
-## 🔧 Technical Skills
+## 💻 Technical Skills
 
 | Skill                    | Level    |
 | ------------------------ | -------- |
