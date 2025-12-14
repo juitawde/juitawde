@@ -1,4 +1,4 @@
-                                             #🌟 Hello, I'm **Jui Tawde** 🌟
+                                            🌟 Hello, I'm Jui Tawde 🌟
 
 ![Profile Views](https://komarev.com/ghpvc/?username=juisudhir\&color=brightgreen)
 🚀 **B.Tech Computer Science Engineering Student** | Tech + Business Enthusiast
