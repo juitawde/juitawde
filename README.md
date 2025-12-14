@@ -1,16 +1,97 @@
-## Hi there 👋
+#                                    🌟 Hello, I'm **Jui Tawde** 🌟
 
-<!--
-**juitawde/juitawde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Views](https://komarev.com/ghpvc/?username=juisudhir\&color=brightgreen)
+🚀 **B.Tech Computer Science Engineering Student** | Tech + Business Enthusiast
+💡 Turning ideas into **real-world solutions**
 
-Here are some ideas to get you started:
+> "*Strive not to be a success, but rather to be of value.*" – Albert Einstein
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌟 About Me
+
+I’m a curious and driven Computer Science student who loves **building things that matter**.
+
+I am interested in Business Technology, Data Analytics, AI/ML, and emerging tech trends. I enjoy creating Python projects, building STEM-based learning platforms, and making interactive Scratch animations and games. My philosophy is simple: **Code. Repeat. Improve. Build something useful.**
+
+---
+
+## 🔧 Technical Skills
+
+| Skill                    | Level    |
+| ------------------------ | -------- |
+| Python                   | 💻💻💻💻 |
+| Data Analytics           | 📊📊📊📊 |
+| Scratch                  | 🎮🎮🎮🎮 |
+| AI / Machine Learning    | 🤖🤖     |
+
+---
+
+## 🛠 Tools I Use
+
+| Tool                 | Level |
+| -------------------- | ----- |
+| Canva                | 🎨🎨  |
+| Excel                | 📊📊  |
+| Microsoft PowerPoint | 📑📑  |
+| Git & GitHub         | 🐙🐙  |
+| LinkedIn             | 💼💼  |
+
+---
+
+## 🎨 Creative & Design
+
+| Skill                 | Description                        |
+| --------------------- | ---------------------------------- |
+| Drawing & Designing   | 🎨 Sketching, graphics             |
+| Animation & Graphics  | ✨ Motion design, storytelling      |
+| UI/UX Design Thinking | 🖌️ User-friendly interfaces       |
+| Game Design Concepts  | 🎮 Mechanics, logic, interactivity |
+
+---
+
+## 📂 Highlight Projects
+
+| Project                                | Description                         | Tech / Tools             |
+| -------------------------------------- | ----------------------------------- | ------------------------ |
+| 📈 **Employee Leave Trend Visualizer** | Data-driven insights & reporting    | Python, Data Analytics   |
+| 🧠 **STEM Learning Platform**          | Tech-enabled education for students | Web Dev, Scratch, Python |
+| 🎮 **Scratch Animations & Games**      | Creativity meets logic              | Scratch                  |
+| 🐍 **Python Projects**                 | Automation, analytics, utilities    | Python                   |
+
+ *(More projects loading...!⏳)*
+ 
+> "*The best way to predict the future is to create it.*" – Peter Drucker
+
+---
+
+## 🌱 Currently Exploring
+
+* 💻 Advanced Python & Analytics
+* 🤖 AI/ML Fundamentals
+* 🎨 UI/UX Principles
+* 🎮 Game Development Basics
+* 🧑‍🤝‍🧑 Leadership & Teamwork
+
+---
+
+## 🎯 Career Goals
+
+* Contribute to **top tech firms**, **innovative startups**, and **impactful teams**
+* Develop **new products, platforms, and ideas**
+* Take up **leadership roles** and drive projects forward
+
+---
+
+## 📫 Connect With Me
+
+| Platform     | Contact                                              |
+| ------------ | ---------------------------------------------------- |
+| 📧 Email     | [2025.juis@isu.ac.in](mailto:2025.juis@isu.ac.in)    |
+| 🌐 Portfolio | *Coming Soon*                                        |
+| 💼 LinkedIn  | *Coming Soon*                                        |
+| 🐱 GitHub    | [github.com/juisudhir](https://github.com/juisudhir) |
+
+---
+
+✨ *Always learning. Always building. Always improving.* ✨
