@@ -89,7 +89,7 @@ I am interested in Business Technology, Data Analytics, AI/ML, and emerging tech
 | ------------ | ---------------------------------------------------- |
 | 📧 Email     | [2025.juis@isu.ac.in](mailto:2025.juis@isu.ac.in)    |
 | 🌐 Portfolio | *Coming Soon*                                        |
-| 💼 LinkedIn  | *Coming Soon*                                        |
+| 💼 LinkedIn  | https://www.linkedin.com/in/jui-tawde-788210385?     |
 | 🐱 GitHub    | [github.com/juisudhir](https://github.com/juisudhir) |
 
 ---
