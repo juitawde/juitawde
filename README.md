@@ -23,7 +23,6 @@ I am interested in Business Technology, Data Analytics, AI/ML, and emerging tech
 | Python                   | 💻💻💻💻 |
 | Data Analytics           | 📊📊📊📊 |
 | Scratch                  | 🎮🎮🎮🎮 |
-| AI / Machine Learning    | 🤖🤖     |
 
 ---
 
@@ -34,7 +33,6 @@ I am interested in Business Technology, Data Analytics, AI/ML, and emerging tech
 | Canva                | 🎨🎨  |
 | Excel                | 📊📊  |
 | Microsoft PowerPoint | 📑📑  |
-| Git & GitHub         | 🐙🐙  |
 | LinkedIn             | 💼💼  |
 
 ---
@@ -68,7 +66,6 @@ I am interested in Business Technology, Data Analytics, AI/ML, and emerging tech
 ## 🌱 Currently Exploring
 
 * 💻 Advanced Python & Analytics
-* 🤖 AI/ML Fundamentals
 * 🎨 UI/UX Principles
 * 🎮 Game Development Basics
 * 🧑‍🤝‍🧑 Leadership & Teamwork
@@ -88,9 +85,7 @@ I am interested in Business Technology, Data Analytics, AI/ML, and emerging tech
 | Platform     | Contact                                              |
 | ------------ | ---------------------------------------------------- |
 | 📧 Email     | [juitawde23@gmail.com](mailto:juitawde23@gmail.com)  |
-| 🌐 Portfolio | *Coming Soon*                                        |
 | 💼 LinkedIn  | https://www.linkedin.com/in/jui-tawde-788210385      |
-| 🐱 GitHub    | https://github.com/juitawde                          |
 
 ---
 
