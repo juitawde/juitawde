@@ -1,3 +1,5 @@
+![Jui Tawde – Cover](https://raw.githubusercontent.com/juitawde/juitawde/10fd10c7eff53cbdae90d5db728d09a9739c466b/gemini%20cover%20page%202.png)
+
   # 🌟 Hello, I'm **Jui Tawde** 🌟
 
 ![Profile Views](https://komarev.com/ghpvc/?username=juisudhir\&color=brightgreen)
