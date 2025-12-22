@@ -24,9 +24,8 @@ I am interested in Business Technology, Data Analytics, AI/ML, and emerging tech
 
 | Skill                    | Level    |
 | ------------------------ | -------- |
-| Python                   | 💻💻💻💻 |
-| Data Analytics           | 📊📊📊📊 |
-| Scratch                  | 🎮🎮🎮🎮 |
+| Python                   | 💻💻💻💻  |
+| Scratch                  | 🎮🎮🎮🎮  |
 
 ---
 
