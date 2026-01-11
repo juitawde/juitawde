@@ -26,6 +26,8 @@ I am interested in Business Technology, Data Analytics, AI/ML, and emerging tech
 | ------------------------ | -------- |
 | Python                   | 💻💻💻💻  |
 | Scratch                  | 🎮🎮🎮🎮  |
+| HTML                     | 💻💻💻💻  |
+| C++                      | 💻💻💻    |
 
 ---
 
@@ -59,6 +61,7 @@ I am interested in Business Technology, Data Analytics, AI/ML, and emerging tech
 | 🧠 **STEM Learning Platform**          | Tech-enabled education for students | Web Dev, Python          |
 | 🎮 **Scratch Animations & Games**      | Creativity meets logic              | Scratch                  |
 | 🐍 **Python Projects**                 | Automation, analytics, utilities    | Python                   |
+| 🌸 **Brew & Bloom Cafe Website**       | Website with aesthetic theme, great user interactivity | Web Dev, HTML, CSS  | 
 
 *(More projects loading..!⏳)*
 
@@ -71,6 +74,8 @@ I am interested in Business Technology, Data Analytics, AI/ML, and emerging tech
 * 💻 Advanced Python & Analytics
 * 🎨 UI/UX Principles
 * 🎮 Game Development Basics
+* 📱 Exploring and learning making of websites
+* 💻 Learning C++
 * 🧑‍🤝‍🧑 Leadership & Teamwork
 
 ---
