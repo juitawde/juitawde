@@ -3,7 +3,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=juisudhir\&color=brightgreen)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Python+Developer;Scratch+Progerammer;Problem+Solver;Always+Learning&center=true&width=500)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Python+Developer;Scratch+Programmer;Problem+Solver;Always+Learning&center=true&width=500)
 
 🚀 **B.Tech Computer Science Engineering Student** | Tech + Business Enthusiast
 💡 Turning ideas into **real-world solutions**
