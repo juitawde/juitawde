@@ -94,6 +94,7 @@ I am interested in Business Technology, Data Analytics, AI/ML, and emerging tech
 | ------------ | ---------------------------------------------------- |
 | 📧 Email     | [juitawde23@gmail.com](mailto:juitawde23@gmail.com)  |
 | 💼 LinkedIn  | https://www.linkedin.com/in/jui-tawde-788210385      |
+| 🌟Personal portfolio |  https://portfolio-with-pages.vercel.app/index.html  |
 
 ---
 
