@@ -1,4 +1,5 @@
-![Cover Page](file:///Users/juitawde/Downloads/linkedin_coverpage.png)
+![Cover Page](<img width="1024" height="254" alt="image" src="https://github.com/user-attachments/assets/0bf71ee3-1f40-40ec-9654-a6bbe7e7200b" />
+)
   # 🌟 Hello, I'm **Jui Tawde** 🌟
 
 ![Profile Views](https://komarev.com/ghpvc/?username=juisudhir\&color=brightgreen)
