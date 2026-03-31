@@ -1,103 +1,101 @@
-![Cover Page](<img width="1024" height="254" alt="image" src="https://github.com/user-attachments/assets/0bf71ee3-1f40-40ec-9654-a6bbe7e7200b" />
-)
-  # 🌟 Hello, I'm **Jui Tawde** 🌟
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0bf71ee3-1f40-40ec-9654-a6bbe7e7200b" width="100%" />
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=juisudhir\&color=brightgreen)
+<h1 align="center">Hey 👋, I'm Jui Tawde</h1>
+<h3 align="center">🚀 Building Ideas into Reality | Tech + Business Enthusiast</h3>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Python+Developer;Scratch+Programmer;Problem+Solver;Always+Learning&center=true&width=500)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=juisudhir&color=blueviolet" />
+</p>
 
-🚀 **B.Tech Computer Science Engineering Student** | Tech + Business Enthusiast
-💡 Turning ideas into **real-world solutions**
-
-> "*Strive not to be a success, but rather to be of value.*" – Albert Einstein
-
----
-
-## 👩🏻‍💻 About Me
-
-I’m a curious and driven Computer Science student who loves **building things that matter**.
-
-I am interested in Business Technology, Data Analytics, AI/ML, and emerging tech trends. I enjoy creating Python projects, building STEM-based learning platforms, and making interactive Scratch animations and games. My philosophy is simple: **Code. Repeat. Improve. Build something useful.**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Python+Developer;Problem+Solver;Creative+Thinker;Always+Learning&center=true&width=500&color=F75C7E&size=22">
+</p>
 
 ---
 
-## 💻 Technical Skills
+## 🧑‍💻 About Me
 
-| Skill                    | Level    |
-| ------------------------ | -------- |
-| Python                   | 💻💻💻💻  |
-| Scratch                  | 🎮🎮🎮🎮  |
-| HTML                     | 💻💻💻💻  |
-| C++                      | 💻💻💻    |
+✨ I’m a Computer Science student passionate about **building real-world solutions**  
+💡 Interested in **AI/ML, Data Analytics, Business Tech & Web Development**  
+🎯 I believe in: **Code → Learn → Improve → Build**
 
 ---
 
-## 🛠 Tools I Use
+## 🚀 Tech Stack
 
-| Tool                 | Level |
-| -------------------- | ----- |
-| Canva                | 🎨🎨  |
-| Excel                | 📊📊  |
-| Microsoft PowerPoint | 📑📑  |
-| LinkedIn             | 💼💼  |
+### 💻 Programming
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,html" />
+</p>
 
----
+### 🌐 Web Development
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
 
-## 🎨 Creative & Design
+### 📊 Data & Libraries
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://img.shields.io/badge/NumPy-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Pandas-purple?style=for-the-badge" />
+</p>
 
-| Skill                 | Description                        |
-| --------------------- | ---------------------------------- |
-| Drawing & Designing   | 🎨 Sketching, graphics             |
-| Animation & Graphics  | ✨ Motion design, storytelling      |
-| UI/UX Design Thinking | 🖌️ User-friendly interfaces       |
-| Game Design Concepts  | 🎮 Mechanics, logic, interactivity |
-
----
-
-## 📂 Highlight Projects
-
-| Project                                | Description                         | Tech / Tools             |
-| -------------------------------------- | ----------------------------------- | ------------------------ |
-| 📈 **Employee Leave Trend Visualizer** | Data-driven insights & reporting    | Python, Data Analytics   |
-| 🧠 **STEM Learning Platform**          | Tech-enabled education for students | Web Dev, Python          |
-| 🎮 **Scratch Animations & Games**      | Creativity meets logic              | Scratch                  |
-| 🐍 **Python Projects**                 | Automation, analytics, utilities    | Python                   |
-| 🌸 **Brew & Bloom Cafe Website**       | Website with aesthetic theme, great user interactivity | Web Dev, HTML, CSS  | 
-
-*(More projects loading..!⏳)*
-
-> "*The best way to predict the future is to create it.*" – Peter Drucker
+### ⚙️ Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ---
 
-## 🌱 Currently Exploring
+## 📂 Projects
 
-* 💻 Advanced Python & Analytics
-* 🎨 UI/UX Principles
-* 🎮 Game Development Basics
-* 📱 Exploring and learning making of websites
-* 💻 Learning C++
-* 🧑‍🤝‍🧑 Leadership & Teamwork
+| Project | Description | Tech |
+|--------|------------|------|
+| 📈 Employee Leave Visualizer | Data insights dashboard | Python |
+| 🧠 STEM Learning Platform | Educational platform | Web + Python |
+| 🎮 Scratch Games | Logic + Creativity | Scratch |
+| 🌸 Cafe Website | UI-based web project | HTML, CSS |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://juigithubstats.vercel.app/api?username=juitawde&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://juigithubstats.vercel.app/api/top-langs/?username=juitawde&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced Python 🐍  
+- UI/UX 🎨  
+- Web Development 🌐  
+- C++ 💻  
 
 ---
 
 ## 🎯 Career Goals
 
-* Contribute to **top tech firms**, **innovative startups**, and **impactful teams**
-* Develop **new products, platforms, and ideas**
-* Take up **leadership roles** and drive projects forward
+🚀 Work with top tech companies & startups  
+💡 Build impactful products  
+👩‍💼 Grow into leadership roles  
 
 ---
 
 ## 📫 Connect With Me
 
-| Platform     | Contact                                              |
-| ------------ | ---------------------------------------------------- |
-| 📧 Email     | [juitawde23@gmail.com](mailto:juitawde23@gmail.com)  |
-| 💼 LinkedIn  | https://www.linkedin.com/in/jui-tawde-788210385      |
-| 🌟Personal portfolio |  https://portfolio-with-pages.vercel.app/index.html  |
+<p align="center">
+  <a href="mailto:juitawde23@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge"></a>
+  <a href="https://www.linkedin.com/in/jui-tawde-788210385"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge"></a>
+  <a href="https://portfolio-with-pages.vercel.app/index.html"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge"></a>
+</p>
 
 ---
 
-✨ *Always learning. Always building. Always improving.* ✨
-                                            
+<p align="center">
+✨ Always Learning • Always Building • Always Improving ✨
+</p>
