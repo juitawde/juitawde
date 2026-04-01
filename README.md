@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Python+Developer;Business+Tech+Enthusiast;UI/UX+Designer;Problem+Solver;Creative+Thinker;Always+Learning&center=true&width=500&color=F75C7E&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Python+Developer;Business+Tech+Enthusiast;UI/UX+Designer;Problem+Solver;Creative+Thinker;Always+Learning&center=true&width=500&color=F75C7E&size=29">
 </p>
 
 ---
