@@ -39,6 +39,7 @@
 <p>
 <img src="https://img.shields.io/badge/NumPy-blue?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Pandas-purple?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Matplotlib-orange?style=for-the-badge" />
 </p>
 
 ### ⚙️ Tools
@@ -91,6 +92,14 @@
   <a href="mailto:juitawde23@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge"></a>
   <a href="https://www.linkedin.com/in/jui-tawde-788210385"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge"></a>
   <a href="https://portfolio-with-pages.vercel.app/index.html"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge"></a>
+</p>
+
+---
+
+## 💬 Quote of the Moment
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Strive+to+be+of+value;Code.+Learn.+Build.;Dream+big+start+small;Consistency+beats+talent;Create+your+own+future&center=true&width=500&height=50&duration=3000&pause=2000">
 </p>
 
 ---
