@@ -62,8 +62,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://juigithubstats.vercel.app/api?username=juitawde&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://juigithubstats.vercel.app/api/top-langs/?username=juitawde&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://juigithubstats.vercel.app/api?username=juitawde&show_icons=true&theme=tokyonight&hide_border=true&v=2" />
+  <img src="https://juigithubstats.vercel.app/api/top-langs/?username=juitawde&layout=compact&theme=tokyonight&hide_border=true&v=2" />
 </p>
 
 ---
