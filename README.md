@@ -37,7 +37,6 @@
 
 ### 📊 Data & Libraries
 <p>
-<img src="https://skillicons.dev/icons?i=python" />
 <img src="https://img.shields.io/badge/NumPy-blue?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Pandas-purple?style=for-the-badge" />
 </p>
