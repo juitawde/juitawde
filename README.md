@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/0bf71ee3-1f40-40ec-9654-a6bbe7e7200b" width="100%" />
 </p>
 
-<h1 align="center">Hey 🪷, I'm Jui Tawde</h1>
+<h1 align="center">Hey 🌸, I'm Jui Tawde</h1>
 <h3 align="center">🚀 Building Ideas into Reality | Tech + Business Enthusiast</h3>
 
 <p align="center">
