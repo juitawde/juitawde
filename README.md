@@ -99,7 +99,7 @@
 ## 💬 Quote of the Moment
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Strive+to+be+of+value;Code.+Learn.+Build.;Dream+big+start+small;Consistency+beats+talent;Create+your+own+future&center=true&width=550&height=60&duration=3000&pause=2000">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Strive+to+be+of+value;Code.+Learn.+Build.;Dream+big+start+small;Consistency+beats+talent;Create+your+own+future&center=true&width=700&height=90&duration=3000&pause=2000">
 </p>
 
 ---
