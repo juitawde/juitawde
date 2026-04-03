@@ -91,7 +91,7 @@
 <p align="center">
   <a href="mailto:juitawde23@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge"></a>
   <a href="https://www.linkedin.com/in/jui-tawde-788210385"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge"></a>
-  <a href="https://portfolio-with-pages.vercel.app/index.html"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge"></a>
+  <a href="https://juitawde.github.io/official_portfolio/"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge"></a>
 </p>
 
 ---
